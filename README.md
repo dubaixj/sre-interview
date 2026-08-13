@@ -2,11 +2,12 @@
 
 面向初级 SRE / 运维工程师的每日面试训练仓库。
 
-每天 5 道题，结合 Linux、网络、Nginx、Shell、发布回滚和真实故障场景。
+每天 5 道题，**严格按 [curriculum.md](curriculum.md) 里的学习进度出题**，不超前。
 
 ## 目录
 
 ```text
+curriculum.md         完整学习清单 + 当前状态（每天更新）
 daily/YYYY-MM-DD.md   当天 5 道题（含标准答案 / 点评）
 templates/            每日题模板
 ```
