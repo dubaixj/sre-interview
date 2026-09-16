@@ -1,8 +1,8 @@
 # SRE 模拟面试题
 
-面向初级 SRE / 运维工程师的每日面试训练仓库。
+面向 **2027 届系统运维** 的每日面试训练仓库（对标：Linux 日常运维 / Zabbix / Shell / Docker 基础 / 网络）。
 
-每天 5 道题，**严格按 [curriculum.md](curriculum.md) 里的学习进度出题**，不超前。
+每天 5 道题，**严格按 [curriculum.md](curriculum.md) 里的学习进度出题**。Docker、Zabbix 已纳入近期主考；K8s / Prometheus 仍不超前。
 
 仓库：https://github.com/dubaixj/sre-interview
 
